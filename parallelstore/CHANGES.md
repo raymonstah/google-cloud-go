@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.1](https://github.com/googleapis/google-cloud-go/compare/parallelstore/v0.9.0...parallelstore/v0.9.1) (2024-12-31)
+
+
+### Bug Fixes
+
+* **parallelstore:** Update golang.org/x/net to v0.33.0 ([e9b0b69](https://github.com/googleapis/google-cloud-go/commit/e9b0b69644ea5b276cacff0a707e8a5e87efafc9))
+
 ## [0.9.0](https://github.com/googleapis/google-cloud-go/compare/parallelstore/v0.8.0...parallelstore/v0.9.0) (2024-12-11)
 
 
